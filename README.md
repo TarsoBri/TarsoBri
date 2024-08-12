@@ -24,7 +24,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,postman,pnpm,notion,vscode,firebase,docker,vite" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,postman,pnpm,notion,vscode,firebase,docker,vite" />
   </a>
 </p>
 
@@ -47,6 +47,9 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+  <a href="https://tarsobri.site" target="_blank">
+    <img src="https://github.com/user-attachments/assets/29fe04ed-2538-4ebc-81e4-46f3efb631a0" />
+  </a>
 </div>&nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>

@@ -5,8 +5,8 @@
   <p align="center">I'm passionate about solving problems with technology. 👨‍💻 <br> I consider myself to be a proactive, determined and friendly guy, who always seeks to understand the reason for everything and find the best ways to solve them. I also have a wide range of skills and experience as a developer on my own projects. My constant goal is to improve these skills and learn new methods and technologies that are useful to use on the market.</p>&nbsp;
 
 <div  align="center">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=tarsobri&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=tarsobri&show_icons=true&theme=radical&layout=compact" />
+  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=TarsoBri&theme=radical&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=TarsoBri&show_icons=true&theme=radical&layout=compact" />
 </div>
 
 ## My Skills

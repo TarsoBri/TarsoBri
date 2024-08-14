@@ -37,7 +37,7 @@
 
 <div> 
 <p >
-  <a href="tarsobrietzkeiracet@gmail.com" target="_blank">
+  <a href="mailto:tarsobrietzkeiracet@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/tarso_bri/" target="_blank">

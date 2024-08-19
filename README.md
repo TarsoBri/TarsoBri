@@ -13,7 +13,7 @@
 
 
 
-#### Main Stack:
+#### Stacks:
 <p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,jest,prisma,react,redux,wordpress,mongodb,js,java,html,express,py,css,tailwind,bootstrap" />

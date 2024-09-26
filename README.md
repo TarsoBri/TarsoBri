@@ -1,6 +1,6 @@
 <img width=100% margin="0" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tarso+Brietzke+Iracet+👋;I'm+19+years+old;I'm++from+Rio+Grande+do+Sul,+Brasil;I'm+working+in+Nexus+Software+Development+;I'm+study+ADS+at+Unisinos;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Tarso+Brietzke+Iracet+👋;I'm+19+years+old;I'm++from+Rio+Grande+do+Sul,+Brazil;I'm+working+in+Nexus+Software+Development+;I'm+study+ADS+at+Unisinos;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
   <p align="center">I'm passionate about solving problems with technology. 👨‍💻 <br> I consider myself to be a proactive, determined and friendly guy, who always seeks to understand the reason for everything and find the best ways to solve them. I also have a wide range of skills and experience as a developer on my own projects. My constant goal is to improve these skills and learn new methods and technologies that are useful to use on the market.</p>&nbsp;
 

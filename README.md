@@ -4,10 +4,6 @@
 
   <p align="center">I'm passionate about solving problems with technology. 👨‍💻 <br> I consider myself to be a proactive, determined and friendly guy, who always seeks to understand the reason for everything and find the best ways to solve them. I also have a wide range of skills and experience as a developer on my own projects. My constant goal is to improve these skills and learn new methods and technologies that are useful to use on the market.</p>&nbsp;
 
-<div  align="center">
-  <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=TarsoBri&theme=radical&mode=weekly" />
-  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=TarsoBri&show_icons=true&theme=radical&layout=compact" />
-</div>
 
 ## My Skills
 
@@ -16,7 +12,7 @@
 #### Stacks:
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,jest,prisma,react,redux,wordpress,mongodb,js,java,html,express,py,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,jest,prisma,next,react,redux,wordpress,mongodb,js,java,html,express,py,css,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -24,7 +20,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,postman,pnpm,notion,vscode,firebase,docker,vite" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux,pnpm,npm,git,github,aws,postman,pnpm,notion,vscode,firebase,docker,vite,figma" />
   </a>
 </p>
 

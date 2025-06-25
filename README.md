@@ -20,7 +20,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux,pnpm,npm,git,github,aws,postman,pnpm,notion,vscode,firebase,docker,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux,yarn,npm,git,github,aws,postman,pnpm,notion,vscode,firebase,docker,vite,figma" />
   </a>
 </p>
 
@@ -35,9 +35,6 @@
 <p >
   <a href="mailto:tarsobrietzkeiracet@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.instagram.com/tarso_bri/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/tarso-brietzke-iracet-5556b5262/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />

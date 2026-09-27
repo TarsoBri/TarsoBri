@@ -12,7 +12,7 @@
 #### Stacks:
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,jest,prisma,next,react,redux,wordpress,mongodb,js,java,html,express,py,css,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,terraform,jest,prisma,next,react,redux,wordpress,mongodb,js,java,html,express,py,go,css,tailwind,bootstrap" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux,yarn,npm,git,github,aws,postman,pnpm,notion,vscode,firebase,docker,vite,figma" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,linux,yarn,npm,git,github,aws,postman,pnpm,notion,vscode,firebase,docker,kubernetes,vite,figma" />
   </a>
 </p>
 
